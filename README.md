@@ -27,7 +27,8 @@ azd env refresh
 azd deploy  
 ```
 
-> Note: when running the `azd env refresh`, use the same environment name, subscription, and region used in the initial provisioning of the infrastructure.
+> [!NOTE]
+> When running the `azd env refresh`, use the same environment name, subscription, and region used in the initial provisioning of the infrastructure.
 
 ## Running Locally with VS Code  
    
