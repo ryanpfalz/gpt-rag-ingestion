@@ -1,4 +1,4 @@
-name: Multi-Environment Build and Deploy
+name: Multi-Environment Build and Deploy - Ingestion
 
 on:
   workflow_dispatch:
